@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/basic-concepts-assignment-module-1/static/css/main.6a4b3a9e.css",
+    "main.js": "/basic-concepts-assignment-module-1/static/js/main.6bcabff2.js",
+    "static/js/787.6566304d.chunk.js": "/basic-concepts-assignment-module-1/static/js/787.6566304d.chunk.js",
+    "index.html": "/basic-concepts-assignment-module-1/index.html",
+    "main.6a4b3a9e.css.map": "/basic-concepts-assignment-module-1/static/css/main.6a4b3a9e.css.map",
+    "main.6bcabff2.js.map": "/basic-concepts-assignment-module-1/static/js/main.6bcabff2.js.map",
+    "787.6566304d.chunk.js.map": "/basic-concepts-assignment-module-1/static/js/787.6566304d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a4b3a9e.css",
+    "static/js/main.6bcabff2.js"
+  ]
+}
