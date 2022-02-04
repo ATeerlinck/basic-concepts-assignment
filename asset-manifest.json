@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/awsd-github-pages/module-1/static/css/main.6a4b3a9e.css",
-    "main.js": "/awsd-github-pages/module-1/static/js/main.4d68641f.js",
-    "static/js/787.5bcd213b.chunk.js": "/awsd-github-pages/module-1/static/js/787.5bcd213b.chunk.js",
+    "main.js": "/awsd-github-pages/module-1/static/js/main.ee65a034.js",
+    "static/js/787.666c3de8.chunk.js": "/awsd-github-pages/module-1/static/js/787.666c3de8.chunk.js",
     "index.html": "/awsd-github-pages/module-1/index.html",
     "main.6a4b3a9e.css.map": "/awsd-github-pages/module-1/static/css/main.6a4b3a9e.css.map",
-    "main.4d68641f.js.map": "/awsd-github-pages/module-1/static/js/main.4d68641f.js.map",
-    "787.5bcd213b.chunk.js.map": "/awsd-github-pages/module-1/static/js/787.5bcd213b.chunk.js.map"
+    "main.ee65a034.js.map": "/awsd-github-pages/module-1/static/js/main.ee65a034.js.map",
+    "787.666c3de8.chunk.js.map": "/awsd-github-pages/module-1/static/js/787.666c3de8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6a4b3a9e.css",
-    "static/js/main.4d68641f.js"
+    "static/js/main.ee65a034.js"
   ]
 }
